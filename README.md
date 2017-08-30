@@ -1,5 +1,5 @@
 # Android
-Learning basic app development for Android
+<b> Learning basic app development for Android </b>
 
 <p>
   Random Buttons - making one button interact with itself (text)

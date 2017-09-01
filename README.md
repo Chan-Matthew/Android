@@ -8,4 +8,14 @@
   Layout - experimenting with more than one class and allowing them to interact with each other (send text to another) 
 
 <p>
-  Activities - Going from one activity to another (Activity Cycle not there yet) </p>
+  Activities - Going from one activity to another (Activity Cycle not there yet) 
+
+<p>
+  SimpleCalculator - Working calculator mostly for experiementing and getting comfortable with Android Studio 
+
+
+
+
+
+
+</p>

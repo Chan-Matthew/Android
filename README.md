@@ -11,7 +11,7 @@
   Activities - Going from one activity to another (Activity Cycle not there yet) 
 
 <p>
-  SimpleCalculator - Working calculator mostly for experiementing and getting comfortable with Android Studio 
+  SimpleCalculator - Working calculator mostly for experimenting and getting comfortable with Android Studio 
 
 
 
